@@ -18,19 +18,19 @@
     {
       "description":"Enter yes for your bot to auto react",
       "value":"no",
-      "required":false
+      "required":true
     },
 "AUTO_SAVE_CONTACTS":
     {
       "description":"Enter yes for your bot to auto save numbers",
       "value":"no",
-      "required":false
+      "required":true
     },
 "AUTO_REACT_STATUS":
     {
       "description":"Enter yes for your bot to auto react status",
       "value":"yes",
-      "required":false
+      "required":true
     },
 "ANTICALL":
     {
@@ -55,12 +55,12 @@
     {
       "description":"Your status will be reading automatically(type yes to active or no to deactive  ; don't write in capital letter)",
       "value":"yes",
-      "required":false
+      "required":true
     }, "AUTO_DOWNLOAD_STATUS":
     {
       "description":"You status will be sending status to your inbox automatically (type yes to active or no to deactive ; don't write in capital letter)",
       "value":"no",
-      "required":false
+      "required":true
     },
     "AUTO_READ":
     {
@@ -121,7 +121,7 @@
     "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
   },
     "SESSION_ID":{
-    "description":"put your session ID , the code you received from from ibrahim adams site",   
+    "description":"BWM-XMD;;;H4sIAAAAAAAAA5VVy46jRhT9l9qaHvMw2FjpKAbjJ8YPYIydGUUFFFA2BgwFBrcs9T7KPlJGyk/4K+Yv/CcR/VDPIjPpsCoVxbmnzrnn8gCiGGdoiirQfQBJigtIUL0kVYJAF0i556EUUMCFBIIuwLKJhV01WmX9AXNmmA3nuanOj8mQo3HWiMI935hW49y3TvfgQoEkt0Ps/ACwgyfNc16Y0SpNSD84ZRnhpjSzs0jsKAtV43iu1TcSVjbH9+BSI0Kc4shXkgAdUArDKaoWEKfvo1/NzKI6SsKsRY8WkNaLkMySQNZ3MD/SM5s3nFm/M+KFEUO/j75Et2As64MRjXjpHBRcQxtZmqxPkLs9z5vbuWH52MsZb715pp9hP0Lu2EURwaR6t+7mRPsIM01q9wpuY3V0v6H2dOSmabQUlZUZwuq4jqQm7bOd9xHvFyatiwXprBnLLk/2Sg6jqtTLwDJmUhG1+mS3mkT7g3IyvyW+SF97Zf9/dB+qriz2Z3ut0TNien4e7Iwol5zpYn2ulkMxkxFcIaUMt6H/PvrLoWEqenPi6SKtnxO0pbeaJriraDxWVk7ZMBNDnrOe0MHjN/qQ5OmPWIreDo39lN2vS3U/3ezFIDgsSKe1HaDRfGhz8x2tMeepQPfZ7bShCm2aCFvB3s5thBRu4amFQlpTJU2HTmkJeqZ5toV790832qNq7IIuc6FAinyckRQSHEf1HksLFIBuoSMnReRJXoCw606cs8UIbL8ZyJE+xMdeA+Md4Xa9spVNkzJLcnbkGMo9oECSxg7KMuSOcEbitJqhLIM+ykD3188UiFBJno2ry3EMBTycZsSM8iSMofvq6utL6DhxHhG9ihy5XqAUdOm3bUQIjvys1jGPYOoEuEByAEkGuh4MM3ShgIsK7KAaD2xWZaDv1vyKFQIfTo1UVzubXk05iKPnIx7rtD0XMXc8Y9t3LZvj7jqcIN7RTMtzeIF1ORYBCuCXzNTffNfCUSQ1JxJCZ5OeLkSHgS2ZxckoMujNkw3P2qMUuaBL0hxRwIbOPk+MeI+iH+BOoSPZhmnO/E61UvE5Pi+94yksN5vZN7jPnoLuw9uckmO3xrNUmeF0dQkocHhqQVzfXGy1BYbnhRbf6QrtX7IPp1pHmCQfIkQABSJYHwY/ffp0u/55uz7ern99/XK7frld//jtdv39dn38+ne98fj18XZ9bP5cM3mxqa7hIgJxmIEukDUvjRuKpEyOQZnGw2HP8XuyX/vwautrPp77b0ET6Fir0LZDN/cnkup2aMWRF16i6Xxzv6D3kwnT7+kNy7z/FxDQBclsNc6aTVdaJpsOq7MLqxPt+f2gj7VyNJ4MZeLsTp410vXDQBEGq9A60n16dhwtZq7UOnjqgKTTInDWhjfXWc772G/Hff++rvbcXt8WK91V1BCCUsjFJZtiR+dHUixv2yfN8Zvj8dZoipW2y0/jRjQ8flTzYe9w0LfF1j0eZWG4MAfLwJuU7rCaeuUZFUf2KIb+S3KfJkf4MrHxU6YeXprRw+hpAL749F92vsWCvlDfQLxM1O/9YgxRXUcDertmecuO5aXOeZo06u04wTBzj++LE1l3lyelCBlwuXymQBJC4sXpAXRBdrAhoEAIM9J7i7WBDygj8JCALtPmOE7sCGKbAoeqlyQ6geR1GoBe/agqBJd/ABiPGcMpCAAA",   
       "value":"",
      "required":true
   },
